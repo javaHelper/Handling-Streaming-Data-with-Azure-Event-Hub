@@ -1,5 +1,8 @@
 # Handling-Streaming-Data-with-Azure-Event-Hub
 
+# Ref
+- https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-send?tabs=passwordless%2Croles-azure-portal
+
 # Steps to create Event Hubs Namespace
 
 <img width="1430" alt="Screenshot 2024-01-16 at 10 31 35 AM" src="https://github.com/javaHelper/Handling-Streaming-Data-with-Azure-Event-Hub/assets/54174687/f70ff6fc-9c2f-4bf7-96a6-d683f10ff38e">
