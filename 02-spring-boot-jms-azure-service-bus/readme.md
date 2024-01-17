@@ -34,4 +34,10 @@ Azure provides an asynchronous messaging platform called Azure Service Bus ("Ser
 
 <img width="1488" alt="Screenshot 2024-01-17 at 3 14 43 PM" src="https://github.com/javaHelper/Handling-Streaming-Data-with-Azure-Event-Hub/assets/54174687/fc3df522-8210-4885-a76b-a0d358a32840">
 
+# The simillar way you need to copy 
+<img width="1494" alt="Screenshot 2024-01-17 at 3 52 38 PM" src="https://github.com/javaHelper/Handling-Streaming-Data-with-Azure-Event-Hub/assets/54174687/9b65fd85-3d6e-425e-910a-58bee6cbc800">
+
+
 <img width="1419" alt="Screenshot 2024-01-17 at 3 42 19 PM" src="https://github.com/javaHelper/Handling-Streaming-Data-with-Azure-Event-Hub/assets/54174687/1a805fea-bc23-45cf-b999-c9543099f092">
+
+
